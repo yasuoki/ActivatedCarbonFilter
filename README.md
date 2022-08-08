@@ -3,7 +3,7 @@
 <img src="img/pic1.jpg" width="70%">
 
 # BOM
-- M3 x 12mm SHCS x17
+- M3 x 10mm SHCS x17
 - M3 x 25mm BHCS x2
 - M3 Insert Nut x4
 - M3 M3 Roll-in T-nut x1
