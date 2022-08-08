@@ -1,6 +1,8 @@
 # Activated Carbon Filterfor VORON TRIDENT
 
 <img src="img/pic1.jpg" width="70%">
+<img src="img/pic2.jpg" width="70%">
+<img src="img/pic3.jpg" width="70%">
 
 # BOM
 - M3 x 10mm SHCS x17
