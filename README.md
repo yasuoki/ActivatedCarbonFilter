@@ -1,4 +1,4 @@
-# Activated Carbon Filterfor VORON TRIDENT
+# Activated Carbon Filter for VORON TRIDENT
 
 <img src="img/pic1.jpg" width="70%">
 <img src="img/pic2.jpg" width="70%">
